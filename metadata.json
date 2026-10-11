@@ -1,0 +1,6 @@
+{
+  "name": "App Giáo Dục",
+  "description": "Hệ sinh thái giáo dục Hóa học 12 GDPT 2018 - Tích hợp AI kiến trúc sư sư phạm, mô phỏng 3D cơ chế phân tử, công cụ giáo viên và đấu trường lớp học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
